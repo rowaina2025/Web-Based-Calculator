@@ -1,0 +1,51 @@
+.calculator {
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    position: fixed;
+    width: 700px;
+}
+
+.calcBody {
+    display: grid;
+    grid-template-columns: 800px;
+}
+
+.calculator button {
+    grid-column: span 1;
+    color: #fff;
+    position: relative;
+    display: grid;
+    place-items: center;
+    height: 80px;
+    background: #2d2d2d;
+    cursor: pointer;
+    font-weight: 400;
+    text-transform: lowercase;
+    font-style: normal;
+    font-size: 1.5em;
+}
+
+.calculator .button:hover {
+    background-color: #646362;
+}
+
+.calculator .clear {
+    background: #f00;
+    text-transform: uppercase;
+}
+
+.calculator .equal {
+    background: #21659c;
+}
+
+.calculator .clear:hover {
+    background: rgb(102, 18, 18);
+}
+
+.calculator .equal:hover {
+    background: #0b4e85;
+}
+
+.ground {
+    background-color: black;
+}
