@@ -10,11 +10,11 @@ export class ReqService {
   constructor(private http: HttpClient) { }
 	url: string = "http://localhost:8090/OOP";
 
-  oneOp(n: string, ext: string): Observable<string>{
+  oneOp(n: string, ext: string): Observable<string> {
 		return this.http.get(this.url + ext, {params:{n}, responseType: 'text'});
 	}
 
-	twoOp(n: string): Observable<string>{
+	twoOp(n: string): Observable<string> {
 		return this.http.get(this.url + "/two_op", {params:{n}, responseType: 'text'});
 	}
 
