@@ -6,3 +6,7 @@
 - Model: Calculator Model
 - View: UI in the frontend
 - Controller: Responsible for sending and recieving requests and all calculations.
+# Design patterns:
+- Singltion and delegation
+# Program UI:
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
