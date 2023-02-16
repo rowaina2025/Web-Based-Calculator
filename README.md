@@ -9,4 +9,4 @@
 ## Design patterns:
 - Singltion and delegation
 ## Program UI:
-[![Web calculator](https://www.linkpicture.com/q/UI.png)](https://www.linkpicture.com/view.php?img=LPic63ee456c7d91b93390751)
+[![image](https://www.linkpicture.com/q/UI_1.png)](https://www.linkpicture.com/view.php?img=LPic63ee46f93afdc1499360159)
