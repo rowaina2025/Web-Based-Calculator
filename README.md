@@ -9,4 +9,4 @@
 ## Design patterns:
 - Singltion and delegation
 ## Program UI:
-![This is an image](https://www.linkpicture.com/view.php?img=LPic63ee456c7d91b93390751)
+![](https://www.linkpicture.com/view.php?img=LPic63ee456c7d91b93390751)
