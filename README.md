@@ -1,4 +1,4 @@
 # Web-Based-Calculator
-##Used Technology:
+## Used Technology:
 * Angular framework for frontend
 * Springboot framework for backend
