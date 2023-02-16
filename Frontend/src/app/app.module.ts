@@ -13,7 +13,7 @@ import { OperationService } from './services/text-manupulation-services/operatio
   declarations: [
     AppComponent,
     ButtonsComponent,
-    DisplayComponent
+    DisplayComponent,
   ],
   imports: [
     BrowserModule,

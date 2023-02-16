@@ -4,8 +4,17 @@
     font-family: "Courier New", Courier, monospace;
 }
 
-body {
-    height: 100vh;
-    align-items: center;
-    justify-content: center;
+.calculator {
+    padding: center;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+.title {
+    padding-left: 40%;
+    margin-top: 2%;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
 }

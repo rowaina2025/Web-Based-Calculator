@@ -17,7 +17,5 @@ export class AppComponent {
 
   getNum1d(): string {return this.num1d;}
   getNmu2d(): string {return this.num2d;}
-  setNum1d(s: string) {this.num1d = s;} //unused
-  setNum2d(s: string) {this.num2d = s;} //unused
 
 }
