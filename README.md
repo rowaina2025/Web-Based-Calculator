@@ -9,4 +9,4 @@
 ## Design patterns:
 - Singltion and delegation
 ## Program UI:
-![Web Calculator](https://ibb.co/wCc039d)
+![Web Calculator](https://i.ibb.co/wCc039d/UI.png)
