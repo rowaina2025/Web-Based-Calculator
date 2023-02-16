@@ -10,3 +10,4 @@
 - Singltion and delegation
 ## Program UI:
 [![image](https://www.linkpicture.com/q/UI_1.png)](https://www.linkpicture.com/view.php?img=LPic63ee46f93afdc1499360159)
+https://pdf.ac/1hK2Hf
